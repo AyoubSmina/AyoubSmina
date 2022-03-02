@@ -80,7 +80,7 @@ const themeContribGuidelines = `
   \rWe are currently only accepting color combinations from any VSCode theme or themes which have good color combination to minimize bloating the themes collection.
 
   \r> Also note that if this theme is exclusively for your personal use, then instead of adding it to our theme collection you can use card [customization options](https://github.com/anuraghazra/github-readme-stats#customization) 
-`;
+`;  
 
 async function run() {
   try {
