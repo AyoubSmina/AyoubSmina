@@ -3,7 +3,7 @@
 <p align="center">
  <h1 align="center">¡Welcome to my github! 👋</h1>
 </p>
-## About me 👨‍💻
+<!-- ## About me 👨‍💻
 
 **My name is [Ayoub](https://AyoubSmina.vercel.app), I'm a web developer, and i'm currently in my third year of Statistical Engineering and Business Intelligence for Business Management at University.computer engineering at Uninort. Since I was 14 years old I started working in technology 🚀. This has helped me to develop a very good technological mindset, and has given me the curiosity to learn more. 🌠**
 
@@ -92,3 +92,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ -->
